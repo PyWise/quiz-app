@@ -2,6 +2,13 @@
 
 A simple and fun quiz app built with Flutter. Users can roll through multiple-choice questions and test their knowledge!
 
+## 📱 App Preview
+
+<p float="left">
+  <img src="assets/images/screenshot_1.png" width="45%" />
+  <img src="assets/images/screenshot_2.png" width="45%" />
+</p>
+
 ## 📱 Features
 
 - Interactive quiz with multiple questions
